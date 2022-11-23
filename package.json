@@ -37,7 +37,7 @@
 		"vue": "^3.2.37"
 	},
 	"publishConfig": {
-		"access": "public"
+		"registry": "https://npm.pkg.github.com"
 	},
 	"scripts": {
 		"build": "tsc -b tsconfig.build.json",
